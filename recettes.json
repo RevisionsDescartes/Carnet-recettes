@@ -471,5 +471,17 @@
    "sum": "Ingrédients inconnus",
    "ts": 0
   }
+ ],
+ "typeOrder": [
+  "plats",
+  "accomp",
+  "tajines",
+  "petit-dej",
+  "salades",
+  "soupes",
+  "sandwichs",
+  "snacks",
+  "desserts",
+  "aclasser"
  ]
 }
