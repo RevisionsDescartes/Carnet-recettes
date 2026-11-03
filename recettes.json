@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw13sy21quj",
+   "name": "Purée",
+   "type": "accomp",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-03",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [
+    "Pomme de terre"
+   ],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "Pomme de terre",
+   "ts": 1793735500393
+  },
+  {
    "id": "r-mw13r439cce",
    "name": "Tacos",
    "type": "sandwichs",
