@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw13zsx3ht1",
+   "name": "Soupe aux lentilles",
+   "type": "soupes",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-03",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [
+    "Lentilles"
+   ],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "Lentilles",
+   "ts": 1793735820327
+  },
+  {
    "id": "r-mw13zdu4lnz",
    "name": "Balboula",
    "type": "soupes",
