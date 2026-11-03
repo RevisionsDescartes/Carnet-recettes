@@ -1,6 +1,26 @@
 {
  "recipes": [
   {
+   "id": "r-mw1436nc7tr",
+   "name": "Hamburgers viande hachée",
+   "type": "plats",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-03",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793735978088
+  },
+  {
    "id": "r-mw142mu00rg",
    "name": "Nuggets",
    "type": "plats",
