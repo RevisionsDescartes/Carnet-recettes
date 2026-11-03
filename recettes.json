@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw1497wyhsm",
+   "name": "Crêpes",
+   "type": "snacks",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-03",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [
+    "Farine, œufs, vanille"
+   ],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "Farine, œufs, vanille",
+   "ts": 1793736259666
+  },
+  {
    "id": "r-mw148k08r3r",
    "name": "Potatoes au four",
    "type": "accomp",
