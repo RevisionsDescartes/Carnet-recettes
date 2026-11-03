@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw147te4d9i",
+   "name": "Pommes de terre à l'eau",
+   "type": "accomp",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-03",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [
+    "Pomme de terre taille moyenne"
+   ],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "Pomme de terre taille moyenne",
+   "ts": 1793736194188
+  },
+  {
    "id": "r-mw145kkquwt",
    "name": "Frites",
    "type": "accomp",
