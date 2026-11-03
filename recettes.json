@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw13yx6mtaa",
+   "name": "Soupe chinoise",
+   "type": "soupes",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-03",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [
+    "Crevett, champignons noirs, vermicelle chinoise, gingembre frais"
+   ],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "Crevett, champignons noirs, vermicelle chinoise, gingembre frais",
+   "ts": 1793735779198
+  },
+  {
    "id": "r-mw13x9nmvh6",
    "name": "Soupe aux legumes",
    "type": "soupes",
