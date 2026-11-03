@@ -1,6 +1,26 @@
 {
  "recipes": [
   {
+   "id": "r-mw13cqhld9t",
+   "name": "Hamburgers",
+   "type": "sandwichs",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-03",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793734744104
+  },
+  {
    "id": "r-mw0ut4h1c7j",
    "name": "Salade Oranges Carottes",
    "type": "salades",
