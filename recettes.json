@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw13zdu4lnz",
+   "name": "Balboula",
+   "type": "soupes",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-03",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [
+    "Balboula"
+   ],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "Balboula",
+   "ts": 1793735800780
+  },
+  {
    "id": "r-mw13yx6mtaa",
    "name": "Soupe chinoise",
    "type": "soupes",
