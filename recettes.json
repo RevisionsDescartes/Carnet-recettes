@@ -1,6 +1,26 @@
 {
  "recipes": [
   {
+   "id": "r-mw13l8yb8qu",
+   "name": "Loubia",
+   "type": "accomp",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-03",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793735141267
+  },
+  {
    "id": "r-mw13di6siej",
    "name": "Sandwich Ouazzani",
    "type": "sandwichs",
