@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw13omwa48u",
+   "name": "Shawarma",
+   "type": "sandwichs",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-03",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [
+    "Poulet + Tahina + Yaourt nature"
+   ],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "Poulet + Tahina + Yaourt nature",
+   "ts": 1793735299306
+  },
+  {
    "id": "r-mw13mi2k2if",
    "name": "Riz aux légumes",
    "type": "accomp",
