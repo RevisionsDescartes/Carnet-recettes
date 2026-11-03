@@ -1,6 +1,26 @@
 {
  "recipes": [
   {
+   "id": "r-mw13ty5yc68",
+   "name": "Gratin pommes de terre",
+   "type": "accomp",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-03",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793735547190
+  },
+  {
    "id": "r-mw13sy21quj",
    "name": "Purée",
    "type": "accomp",
