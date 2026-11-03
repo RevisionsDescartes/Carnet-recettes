@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw145kkquwt",
+   "name": "Frites",
+   "type": "accomp",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-03",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [
+    "Pommes de terre"
+   ],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "Pommes de terre",
+   "ts": 1793736089450
+  },
+  {
    "id": "r-mw14497m94i",
    "name": "Guacamole à l'avocat",
    "type": "snacks",
