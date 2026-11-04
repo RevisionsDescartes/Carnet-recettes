@@ -929,7 +929,9 @@
    "tips": [],
    "sum": "Œufs, mayonnaise, concombre",
    "ts": 0,
-   "meals": []
+   "meals": [
+    "diner"
+   ]
   },
   {
    "id": "gateau-yaourt",
