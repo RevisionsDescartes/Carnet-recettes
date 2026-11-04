@@ -1,6 +1,27 @@
 {
  "recipes": [
   {
+   "id": "r-mw1kkp3gopn",
+   "name": "Pain à l'ail",
+   "type": "sandwichs",
+   "cook": "",
+   "servings": "",
+   "src": "YouTube",
+   "date": "2026-06-20",
+   "url": "https://youtu.be/mAOOTlplW9E",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793763669004,
+   "meals": []
+  },
+  {
    "id": "r-mw1kjijl7u3",
    "name": "Club sandwich mayo",
    "type": "sandwichs",
@@ -1101,6 +1122,7 @@
   "https://youtube.com/shorts/dhDDw-07Sss",
   "https://youtube.com/shorts/UpFmRTipY5k",
   "https://youtube.com/shorts/2iTVS16CzXM",
-  "https://youtube.com/shorts/eBsgfQgEACY"
+  "https://youtube.com/shorts/eBsgfQgEACY",
+  "https://youtu.be/mAOOTlplW9E"
  ]
 }
