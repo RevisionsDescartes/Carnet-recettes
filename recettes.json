@@ -637,7 +637,9 @@
    "tips": [],
    "sum": "Œufs, fromage",
    "ts": 0,
-   "meals": []
+   "meals": [
+    "diner"
+   ]
   },
   {
    "id": "salades-ete",
