@@ -20,7 +20,10 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Riz blanc rond + lait",
-   "ts": 1793759584165
+   "ts": 1793759584165,
+   "meals": [
+    "diner"
+   ]
   },
   {
    "id": "r-mw1497wyhsm",
@@ -42,7 +45,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Farine, œufs, vanille",
-   "ts": 1793736259666
+   "ts": 1793736259666,
+   "meals": []
   },
   {
    "id": "r-mw148k08r3r",
@@ -64,7 +68,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Pommes de terre",
-   "ts": 1793736228680
+   "ts": 1793736228680,
+   "meals": []
   },
   {
    "id": "r-mw147te4d9i",
@@ -86,7 +91,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Pomme de terre taille moyenne",
-   "ts": 1793736194188
+   "ts": 1793736194188,
+   "meals": []
   },
   {
    "id": "r-mw145kkquwt",
@@ -108,7 +114,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Pommes de terre",
-   "ts": 1793736089450
+   "ts": 1793736089450,
+   "meals": []
   },
   {
    "id": "r-mw14497m94i",
@@ -130,7 +137,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Avocat, oignons, tomates",
-   "ts": 1793736028066
+   "ts": 1793736028066,
+   "meals": []
   },
   {
    "id": "r-mw1436nc7tr",
@@ -150,7 +158,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "",
-   "ts": 1793735978088
+   "ts": 1793735978088,
+   "meals": []
   },
   {
    "id": "r-mw142mu00rg",
@@ -172,7 +181,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Nuggets au poulet",
-   "ts": 1793735952408
+   "ts": 1793735952408,
+   "meals": []
   },
   {
    "id": "r-mw140xg3vej",
@@ -194,7 +204,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Oeufs,  pomme de terre, oignons",
-   "ts": 1793735872851
+   "ts": 1793735872851,
+   "meals": []
   },
   {
    "id": "r-mw13zsx3ht1",
@@ -216,7 +227,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Lentilles",
-   "ts": 1793735820327
+   "ts": 1793735820327,
+   "meals": []
   },
   {
    "id": "r-mw13zdu4lnz",
@@ -238,7 +250,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Balboula",
-   "ts": 1793735800780
+   "ts": 1793735800780,
+   "meals": []
   },
   {
    "id": "r-mw13yx6mtaa",
@@ -260,7 +273,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Crevett, champignons noirs, vermicelle chinoise, gingembre frais",
-   "ts": 1793735779198
+   "ts": 1793735779198,
+   "meals": []
   },
   {
    "id": "r-mw13x9nmvh6",
@@ -280,7 +294,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "",
-   "ts": 1793735702050
+   "ts": 1793735702050,
+   "meals": []
   },
   {
    "id": "r-mw13ty5yc68",
@@ -300,7 +315,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "",
-   "ts": 1793735547190
+   "ts": 1793735547190,
+   "meals": []
   },
   {
    "id": "r-mw13sy21quj",
@@ -322,7 +338,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Pomme de terre",
-   "ts": 1793735500393
+   "ts": 1793735500393,
+   "meals": []
   },
   {
    "id": "r-mw13r439cce",
@@ -344,7 +361,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Viande hachée + pain tacos + fromage carré",
-   "ts": 1793735414901
+   "ts": 1793735414901,
+   "meals": []
   },
   {
    "id": "r-mw13omwa48u",
@@ -366,7 +384,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Poulet + Tahina + Yaourt nature",
-   "ts": 1793735299306
+   "ts": 1793735299306,
+   "meals": []
   },
   {
    "id": "r-mw13mi2k2if",
@@ -386,7 +405,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "",
-   "ts": 1793735199740
+   "ts": 1793735199740,
+   "meals": []
   },
   {
    "id": "r-mw13l8yb8qu",
@@ -408,7 +428,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Sauce tomate",
-   "ts": 1793735141267
+   "ts": 1793735141267,
+   "meals": []
   },
   {
    "id": "r-mw13di6siej",
@@ -428,7 +449,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "",
-   "ts": 1793734779988
+   "ts": 1793734779988,
+   "meals": []
   },
   {
    "id": "r-mw13cqhld9t",
@@ -448,7 +470,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "",
-   "ts": 1793734744104
+   "ts": 1793734744104,
+   "meals": []
   },
   {
    "id": "r-mw0ut4h1c7j",
@@ -468,7 +491,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "",
-   "ts": 1793720392170
+   "ts": 1793720392170,
+   "meals": []
   },
   {
    "id": "u-mvz95y4zyqz",
@@ -488,7 +512,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "",
-   "ts": 1793623572755
+   "ts": 1793623572755,
+   "meals": []
   },
   {
    "id": "pancakes-ecrit",
@@ -530,7 +555,8 @@
     "Peser les ingrédients directement dans le bol du mixeur posé sur une balance évite de la vaisselle."
    ],
    "sum": "Flocons d'avoine, œufs, miel, yaourt grec, lait",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "pancakes-yt",
@@ -553,7 +579,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Flocons d'avoine, œufs",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "sandwich-oeuf-fromage",
@@ -577,7 +604,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Œufs, fromage",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "salades-ete",
@@ -597,7 +625,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "3 salades composées",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "guacamole",
@@ -617,7 +646,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Ingrédients inconnus",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "tajine-kefta",
@@ -644,7 +674,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Kefta, œufs",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "tenders",
@@ -668,7 +699,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Poulet, chapelure panko",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "tortilla-oeufs",
@@ -697,7 +729,8 @@
    "stepsNote": "Début de la description de la vidéo. La suite est dans la vidéo.",
    "tips": [],
    "sum": "Tortilla, œufs",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "flatbread-viral",
@@ -719,7 +752,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Flatbread italien…",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "poulet-soja-miel",
@@ -755,7 +789,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Poulet, sauce soja, miel, ail, gingembre",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "hasselback",
@@ -777,7 +812,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Pommes de terre…",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "pain-pdt-fromage",
@@ -806,7 +842,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Pomme de terre, mozzarella, farine, lait",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "mais-souffle",
@@ -828,7 +865,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Maïs",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "sandwich-oeuf-mayo",
@@ -853,7 +891,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Œufs, mayonnaise, concombre",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "gateau-yaourt",
@@ -875,7 +914,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Yaourt…",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "noix-caramel",
@@ -899,7 +939,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Noix, miel",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   },
   {
    "id": "recette-simple",
@@ -919,7 +960,8 @@
    "stepsNote": "",
    "tips": [],
    "sum": "Ingrédients inconnus",
-   "ts": 0
+   "ts": 0,
+   "meals": []
   }
  ],
  "typeOrder": [
