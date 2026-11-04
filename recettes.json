@@ -1124,8 +1124,8 @@
   },
   {
    "id": "recette-simple",
-   "name": "« Recette simple et… » (titre tronqué)",
-   "type": "aclasser",
+   "name": "Tiramisu (from perplexity)",
+   "type": "desserts",
    "cook": "",
    "servings": "",
    "src": "Perplexity",
