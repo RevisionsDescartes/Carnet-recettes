@@ -19,7 +19,8 @@
    "tips": [],
    "sum": "",
    "ts": 1793775464227,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "r-mw1q5lvlfed",
@@ -40,7 +41,8 @@
    "tips": [],
    "sum": "",
    "ts": 1793773042690,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "r-mw1q26nfzcy",
@@ -61,7 +63,8 @@
    "tips": [],
    "sum": "",
    "ts": 1793772882987,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "r-mw1kkp3gopn",
@@ -82,7 +85,8 @@
    "tips": [],
    "sum": "",
    "ts": 1793763669004,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "r-mw1kjijl7u3",
@@ -103,7 +107,8 @@
    "tips": [],
    "sum": "",
    "ts": 1793763613857,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "r-mw1khxqvdsv",
@@ -124,7 +129,8 @@
    "tips": [],
    "sum": "",
    "ts": 1793763540247,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "r-mw1kdrlggng",
@@ -145,7 +151,8 @@
    "tips": [],
    "sum": "",
    "ts": 1793763345652,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "r-mw1i557m1k3",
@@ -170,7 +177,8 @@
    "ts": 1793759584165,
    "meals": [
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw1497wyhsm",
@@ -193,7 +201,8 @@
    "tips": [],
    "sum": "Farine, œufs, vanille",
    "ts": 1793736259666,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "r-mw148k08r3r",
@@ -218,7 +227,8 @@
    "ts": 1793736228680,
    "meals": [
     "dejeuner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw147te4d9i",
@@ -243,7 +253,8 @@
    "ts": 1793736194188,
    "meals": [
     "dejeuner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw145kkquwt",
@@ -268,7 +279,8 @@
    "ts": 1793736089450,
    "meals": [
     "dejeuner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw14497m94i",
@@ -291,7 +303,8 @@
    "tips": [],
    "sum": "Avocat, oignons, tomates",
    "ts": 1793736028066,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "r-mw1436nc7tr",
@@ -315,7 +328,8 @@
    "meals": [
     "dejeuner",
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw142mu00rg",
@@ -341,7 +355,8 @@
    "meals": [
     "dejeuner",
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw140xg3vej",
@@ -366,7 +381,8 @@
    "ts": 1793735872851,
    "meals": [
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw13zsx3ht1",
@@ -391,7 +407,8 @@
    "ts": 1793735820327,
    "meals": [
     "diner"
-   ]
+   ],
+   "status": "favorite"
   },
   {
    "id": "r-mw13zdu4lnz",
@@ -416,7 +433,8 @@
    "ts": 1793735800780,
    "meals": [
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw13yx6mtaa",
@@ -441,7 +459,8 @@
    "ts": 1793735779198,
    "meals": [
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw13x9nmvh6",
@@ -464,7 +483,8 @@
    "ts": 1793735702050,
    "meals": [
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw13ty5yc68",
@@ -487,7 +507,8 @@
    "ts": 1793735547190,
    "meals": [
     "dejeuner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw13sy21quj",
@@ -512,7 +533,8 @@
    "ts": 1793735500393,
    "meals": [
     "dejeuner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw13r439cce",
@@ -537,7 +559,8 @@
    "ts": 1793735414901,
    "meals": [
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw13omwa48u",
@@ -562,7 +585,8 @@
    "ts": 1793735299306,
    "meals": [
     "dejeuner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw13mi2k2if",
@@ -585,7 +609,8 @@
    "ts": 1793735199740,
    "meals": [
     "dejeuner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw13l8yb8qu",
@@ -610,7 +635,8 @@
    "ts": 1793735141267,
    "meals": [
     "dejeuner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw13di6siej",
@@ -634,7 +660,8 @@
    "meals": [
     "dejeuner",
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw13cqhld9t",
@@ -658,7 +685,8 @@
    "meals": [
     "dejeuner",
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "r-mw0ut4h1c7j",
@@ -679,7 +707,8 @@
    "tips": [],
    "sum": "",
    "ts": 1793720392170,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "u-mvz95y4zyqz",
@@ -703,7 +732,8 @@
    "meals": [
     "dejeuner",
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "pancakes-ecrit",
@@ -746,7 +776,8 @@
    ],
    "sum": "Flocons d'avoine, œufs, miel, yaourt grec, lait",
    "ts": 0,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "pancakes-yt",
@@ -770,7 +801,8 @@
    "tips": [],
    "sum": "Flocons d'avoine, œufs",
    "ts": 0,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "sandwich-oeuf-fromage",
@@ -797,7 +829,8 @@
    "ts": 0,
    "meals": [
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "salades-ete",
@@ -818,7 +851,8 @@
    "tips": [],
    "sum": "3 salades composées",
    "ts": 0,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "guacamole",
@@ -839,7 +873,8 @@
    "tips": [],
    "sum": "Ingrédients inconnus",
    "ts": 0,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "tajine-kefta",
@@ -869,7 +904,8 @@
    "ts": 0,
    "meals": [
     "dejeuner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "tenders",
@@ -894,7 +930,8 @@
    "tips": [],
    "sum": "Poulet, chapelure panko",
    "ts": 0,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "tortilla-oeufs",
@@ -924,7 +961,8 @@
    "tips": [],
    "sum": "Tortilla, œufs",
    "ts": 0,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "flatbread-viral",
@@ -949,7 +987,8 @@
    "ts": 0,
    "meals": [
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "poulet-soja-miel",
@@ -988,7 +1027,8 @@
    "ts": 0,
    "meals": [
     "dejeuner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "hasselback",
@@ -1014,7 +1054,8 @@
    "meals": [
     "dejeuner",
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "pain-pdt-fromage",
@@ -1044,7 +1085,8 @@
    "tips": [],
    "sum": "Pomme de terre, mozzarella, farine, lait",
    "ts": 0,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "mais-souffle",
@@ -1067,7 +1109,8 @@
    "tips": [],
    "sum": "Maïs",
    "ts": 0,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "sandwich-oeuf-mayo",
@@ -1095,7 +1138,8 @@
    "ts": 0,
    "meals": [
     "diner"
-   ]
+   ],
+   "status": ""
   },
   {
    "id": "gateau-yaourt",
@@ -1118,7 +1162,8 @@
    "tips": [],
    "sum": "Yaourt…",
    "ts": 0,
-   "meals": []
+   "meals": [],
+   "status": ""
   },
   {
    "id": "noix-caramel",
@@ -1143,7 +1188,8 @@
    "tips": [],
    "sum": "Noix, miel",
    "ts": 0,
-   "meals": []
+   "meals": [],
+   "status": ""
   }
  ],
  "typeOrder": [
