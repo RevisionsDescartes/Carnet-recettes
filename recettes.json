@@ -1,6 +1,27 @@
 {
  "recipes": [
   {
+   "id": "r-mw1rlicjwdw",
+   "name": "Recette YouTube du 4 novembre 2026",
+   "type": "desserts",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-04",
+   "url": "https://youtu.be/nL4U0N26tlo?si=npFVNiLAYT2jBQfs",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793775464227,
+   "meals": []
+  },
+  {
    "id": "r-mw1q5lvlfed",
    "name": "Tiramisu (recette perplexity)",
    "type": "desserts",
