@@ -1,6 +1,27 @@
 {
  "recipes": [
   {
+   "id": "r-mw1kdrlggng",
+   "name": "Noix avec miel/sésame",
+   "type": "snacks",
+   "cook": "",
+   "servings": "",
+   "src": "YouTube",
+   "date": "2025-05-24",
+   "url": "https://youtu.be/63_fJ6Nes6I",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793763345652,
+   "meals": []
+  },
+  {
    "id": "r-mw1i557m1k3",
    "name": "Riz au lait",
    "type": "accomp",
@@ -1032,6 +1053,7 @@
  ],
  "dismissed": [
   "https://youtube.com/shorts/3IPFU1A96oU",
-  "https://youtube.com/shorts/eKu7M6lC_ic"
+  "https://youtube.com/shorts/eKu7M6lC_ic",
+  "https://youtu.be/63_fJ6Nes6I"
  ]
 }
