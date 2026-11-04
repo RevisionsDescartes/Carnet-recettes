@@ -1,6 +1,27 @@
 {
  "recipes": [
   {
+   "id": "r-mw1q26nfzcy",
+   "name": "Popcorn sucré",
+   "type": "snacks",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-04",
+   "url": "https://youtu.be/RbAZu52QVg4?si=up9cME2q_iPJB2wq",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793772882987,
+   "meals": []
+  },
+  {
    "id": "r-mw1kkp3gopn",
    "name": "Pain à l'ail",
    "type": "sandwichs",
