@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw27e6btrcj",
+   "name": "Poulet à l'ail et au miel ! Dîner prêt en 15 minutes",
+   "type": "plats",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-04",
+   "url": "https://youtube.com/watch?v=dRW3VMfNlaY&si=oD4grdsmOWoayLQN",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793801995914,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw26syu2gtx",
    "name": "Galettes Oeufs pois chiches",
    "type": "plats",
