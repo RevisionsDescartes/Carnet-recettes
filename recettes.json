@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw1i557m1k3",
+   "name": "Riz au lait",
+   "type": "accomp",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-04",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [
+    "Riz blanc rond + lait"
+   ],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "Riz blanc rond + lait",
+   "ts": 1793759584165
+  },
+  {
    "id": "r-mw1497wyhsm",
    "name": "Crêpes",
    "type": "snacks",
