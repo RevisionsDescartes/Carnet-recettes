@@ -986,7 +986,9 @@
    "tips": [],
    "sum": "Poulet, sauce soja, miel, ail, gingembre",
    "ts": 0,
-   "meals": []
+   "meals": [
+    "dejeuner"
+   ]
   },
   {
    "id": "hasselback",
