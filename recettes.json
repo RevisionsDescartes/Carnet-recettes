@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw287ox95zi",
+   "name": "Do you have Milk, Sugar and Peanut at home? Make this delicious Dessert",
+   "type": "desserts",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-04",
+   "url": "https://youtube.com/watch?v=HUfOT3dMTUU&si=1H9ffopWZ_ZIhP_q",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793803373038,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw27e6btrcj",
    "name": "Poulet à l'ail et au miel ! Dîner prêt en 15 minutes",
    "type": "plats",
