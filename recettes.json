@@ -1121,27 +1121,6 @@
    "sum": "Noix, miel",
    "ts": 0,
    "meals": []
-  },
-  {
-   "id": "recette-simple",
-   "name": "Tiramisu (from perplexity)",
-   "type": "desserts",
-   "cook": "",
-   "servings": "",
-   "src": "Perplexity",
-   "date": "2024-09-22",
-   "url": "https://www.perplexity.ai/search/donne-une-recette-simple-et-de-Aru7yegPR7Srj7Ugey_GfA",
-   "btn": "Voir la recherche ↗",
-   "lvl": "none",
-   "ing": [],
-   "probable": [],
-   "ingNote": "Le titre est coupé dans le lien Perplexity. Ni le plat ni le type ne sont connus.",
-   "steps": [],
-   "stepsNote": "",
-   "tips": [],
-   "sum": "Ingrédients inconnus",
-   "ts": 0,
-   "meals": []
   }
  ],
  "typeOrder": [
