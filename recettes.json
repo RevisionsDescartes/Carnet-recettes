@@ -829,7 +829,10 @@
    "tips": [],
    "sum": "Pommes de terre…",
    "ts": 0,
-   "meals": []
+   "meals": [
+    "dejeuner",
+    "diner"
+   ]
   },
   {
    "id": "pain-pdt-fromage",
