@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw26syu2gtx",
+   "name": "Recettes",
+   "type": "plats",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-04",
+   "url": "https://youtube.com/playlist?list=PL0IFsS3opx6paTYNMuGnax3oT1Ns_43Sw&si=fHnfZhZX3SSl8Kwg",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793801006427,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw1rlicjwdw",
    "name": "Brownie au air fryer",
    "type": "desserts",
