@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw4mvm9jl5p",
+   "name": "Dips à l'avocat",
+   "type": "snacks",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-01-17",
+   "url": "https://www.facebook.com/share/r/1Bz94ydgEs/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793948936311,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw4mqkcszhs",
    "name": "Club sandwich à l'œuf",
    "type": "sandwichs",
@@ -1354,6 +1376,7 @@
   "https://www.facebook.com/share/r/14REx7d2E3/",
   "https://www.facebook.com/share/v/184mjExssT/",
   "https://www.facebook.com/share/r/17kTQYwZ3M/",
-  "https://www.facebook.com/share/r/1C7VXLFSn9/"
+  "https://www.facebook.com/share/r/1C7VXLFSn9/",
+  "https://www.facebook.com/share/r/1Bz94ydgEs/"
  ]
 }
