@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw4mo6ntngp",
+   "name": "Brownie à la poêle - facile",
+   "type": "desserts",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-01-07",
+   "url": "https://www.facebook.com/share/v/184mjExssT/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793948589497,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw2a3negv1q",
    "name": "Boulettes de poulet",
    "type": "plats",
@@ -1307,6 +1329,7 @@
   "https://www.facebook.com/share/v/2e844H4X7x1Axn7x/",
   "https://www.facebook.com/share/r/mv4V4R6abSfkChtg/",
   "https://www.facebook.com/share/r/MSLKtAbi1XQTpzFF/",
-  "https://www.facebook.com/share/r/14REx7d2E3/"
+  "https://www.facebook.com/share/r/14REx7d2E3/",
+  "https://www.facebook.com/share/v/184mjExssT/"
  ]
 }
