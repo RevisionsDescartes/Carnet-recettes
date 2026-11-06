@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw4nl1wbwab",
+   "name": "Parfum à la Vaseline",
+   "type": "brico",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-02-15",
+   "url": "https://www.facebook.com/share/v/17y4ozGV6C/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793950122971,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw4n8yttija",
    "name": "Popcorn au beurre-micro-ondes-Facile",
    "type": "snacks",
@@ -1466,6 +1488,7 @@
   "petit-dej",
   "snacks",
   "desserts",
+  "brico",
   "aclasser"
  ],
  "dismissed": [
@@ -1500,6 +1523,7 @@
   "https://www.facebook.com/share/r/17xSyFDXKU/",
   "https://www.facebook.com/share/r/1B2TX7P4Be/",
   "https://www.facebook.com/share/r/14aPqKdMhEF/",
-  "https://www.facebook.com/share/r/1AgdfvAjhe/"
+  "https://www.facebook.com/share/r/1AgdfvAjhe/",
+  "https://www.facebook.com/share/v/17y4ozGV6C/"
  ]
 }
