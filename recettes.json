@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw5i18kyr1t",
+   "name": "Mug cake",
+   "type": "desserts",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-04-05",
+   "url": "https://www.facebook.com/share/r/1Gh1ztiL99/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794001266610,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw5hzzi9p51",
    "name": "Barres chocolat amandes noix",
    "type": "snacks",
