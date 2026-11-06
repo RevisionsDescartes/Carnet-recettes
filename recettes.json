@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw5i32tqj27",
+   "name": "Mug Cake",
+   "type": "desserts",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-04-15",
+   "url": "https://www.facebook.com/share/r/14ZgXQkqQK5/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794001352463,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw5i18kyr1t",
    "name": "Mug cake",
    "type": "desserts",
@@ -1826,6 +1848,7 @@
   "https://www.facebook.com/share/r/1GmPwVivBZ/",
   "https://www.facebook.com/share/r/1896itiXDV/",
   "https://www.facebook.com/share/r/1HQBUBWVwp/",
-  "https://www.facebook.com/share/r/1Gh1ztiL99/"
+  "https://www.facebook.com/share/r/1Gh1ztiL99/",
+  "https://www.facebook.com/share/r/14ZgXQkqQK5/"
  ]
 }
