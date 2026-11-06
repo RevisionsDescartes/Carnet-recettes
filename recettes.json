@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw5ia1awtl4",
+   "name": "Barres peanut butter flocons d'avoine",
+   "type": "snacks",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-04-24",
+   "url": "https://www.facebook.com/share/r/18aeybwbNm/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794001677080,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw5i84umtbl",
    "name": "Mousse au chocolat healthy",
    "type": "desserts",
@@ -1873,6 +1895,7 @@
   "https://www.facebook.com/share/r/1Gh1ztiL99/",
   "https://www.facebook.com/share/r/14ZgXQkqQK5/",
   "https://www.facebook.com/share/r/1CHWEP5TYG/",
-  "https://www.facebook.com/share/r/1BGU6BzMSr/"
+  "https://www.facebook.com/share/r/1BGU6BzMSr/",
+  "https://www.facebook.com/share/r/18aeybwbNm/"
  ]
 }
