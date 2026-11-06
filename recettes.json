@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw5izb5fw4c",
+   "name": "Barres Peanut butter Flocons d'avoine Chocolat",
+   "type": "snacks",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-04-28",
+   "url": "https://www.facebook.com/share/r/1AhzFzXPeM/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794002856243,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw5ic7tqiln",
    "name": "Noisettes chocolat",
    "type": "snacks",
@@ -1921,6 +1943,7 @@
   "https://www.facebook.com/share/r/18aeybwbNm/",
   "https://www.facebook.com/share/r/1EGfYtUMdq/",
   "https://www.facebook.com/share/r/18XXgHrCmM/",
-  "https://www.facebook.com/share/r/1DCRa9u91S/"
+  "https://www.facebook.com/share/r/1DCRa9u91S/",
+  "https://www.facebook.com/share/r/1AhzFzXPeM/"
  ]
 }
