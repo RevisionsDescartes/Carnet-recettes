@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw5jbe9544i",
+   "name": "Yaourt Peanut butter Chocolat",
+   "type": "desserts",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-06-19",
+   "url": "https://www.facebook.com/share/r/1BAxSZjCPa/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794003420137,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw5j9b1g4cd",
    "name": "Nougat cacahuètes lait concentré",
    "type": "desserts",
@@ -2065,6 +2087,7 @@
   "https://www.facebook.com/share/r/1BKT9dJuWX/",
   "https://www.facebook.com/reel/984352087534594/",
   "https://www.facebook.com/share/v/17nawXjMc2/",
-  "https://www.facebook.com/share/r/18cde8HZvA/"
+  "https://www.facebook.com/share/r/18cde8HZvA/",
+  "https://www.facebook.com/share/r/1BAxSZjCPa/"
  ]
 }
