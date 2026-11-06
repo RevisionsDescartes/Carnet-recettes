@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw4n7176jmp",
+   "name": "Glace peanut butter + yaourt + chocolat",
+   "type": "desserts",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-02-14",
+   "url": "https://www.facebook.com/share/r/14aPqKdMhEF/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793949468882,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw4n5nphecb",
    "name": "Barres noix amandes...chocolat",
    "type": "desserts",
@@ -1454,6 +1476,7 @@
   "https://www.facebook.com/share/r/18NJ3uHPJD/",
   "https://www.facebook.com/share/r/1AA2wYVzkS/",
   "https://www.facebook.com/share/r/17xSyFDXKU/",
-  "https://www.facebook.com/share/r/1B2TX7P4Be/"
+  "https://www.facebook.com/share/r/1B2TX7P4Be/",
+  "https://www.facebook.com/share/r/14aPqKdMhEF/"
  ]
 }
