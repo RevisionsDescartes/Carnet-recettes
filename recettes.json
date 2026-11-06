@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw5hzzi9p51",
+   "name": "Barres chocolat amandes noix",
+   "type": "snacks",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-04-05",
+   "url": "https://www.facebook.com/share/r/1Gh1ztiL99/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794001208193,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw5hvx0wut1",
    "name": "Wrap Avocat oeuf fromage",
    "type": "sandwichs",
@@ -1781,6 +1803,7 @@
   "https://www.facebook.com/share/r/1HgMGtfd4k/",
   "https://www.facebook.com/share/r/1GmPwVivBZ/",
   "https://www.facebook.com/share/r/1896itiXDV/",
-  "https://www.facebook.com/share/r/1HQBUBWVwp/"
+  "https://www.facebook.com/share/r/1HQBUBWVwp/",
+  "https://www.facebook.com/share/r/1Gh1ztiL99/"
  ]
 }
