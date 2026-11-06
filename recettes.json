@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw4mx6cu8et",
+   "name": "Recette de sushis facile",
+   "type": "snacks",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-01-17",
+   "url": "https://www.facebook.com/share/r/1Ahwmnw8Fr/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793949009006,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw4mvm9jl5p",
    "name": "Dips à l'avocat",
    "type": "snacks",
@@ -1377,6 +1399,7 @@
   "https://www.facebook.com/share/v/184mjExssT/",
   "https://www.facebook.com/share/r/17kTQYwZ3M/",
   "https://www.facebook.com/share/r/1C7VXLFSn9/",
-  "https://www.facebook.com/share/r/1Bz94ydgEs/"
+  "https://www.facebook.com/share/r/1Bz94ydgEs/",
+  "https://www.facebook.com/share/r/1Ahwmnw8Fr/"
  ]
 }
