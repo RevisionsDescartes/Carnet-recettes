@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw4qz7qp5mv",
+   "name": "Muffin banane chocolat au micro-ondes",
+   "type": "snacks",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-03-17",
+   "url": "https://www.facebook.com/share/r/1BEn634XWY/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793955822578,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw4ooldoc2m",
    "name": "Popcorn chocolat à la poêle",
    "type": "snacks",
@@ -1665,6 +1687,7 @@
   "https://www.facebook.com/share/r/1Amj7LtqYR/",
   "https://www.facebook.com/share/r/1H2BodeLgn/",
   "https://www.facebook.com/share/r/1AG8ogNxWJ/",
-  "https://www.facebook.com/share/r/1CXM1qZ7YF/"
+  "https://www.facebook.com/share/r/1CXM1qZ7YF/",
+  "https://www.facebook.com/share/r/1BEn634XWY/"
  ]
 }
