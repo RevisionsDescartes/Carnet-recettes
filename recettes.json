@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw4mzmp73xo",
+   "name": "Peanut butter - Yaourt- Chocolat",
+   "type": "desserts",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-01-31",
+   "url": "https://www.facebook.com/share/r/19oQs8urLk/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793949123499,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw4mx6cu8et",
    "name": "Recette de sushis facile",
    "type": "snacks",
@@ -1401,6 +1423,7 @@
   "https://www.facebook.com/share/r/1C7VXLFSn9/",
   "https://www.facebook.com/share/r/1Bz94ydgEs/",
   "https://www.facebook.com/share/r/1Ahwmnw8Fr/",
-  "https://www.facebook.com/share/r/1Z2GHbNRb3/"
+  "https://www.facebook.com/share/r/1Z2GHbNRb3/",
+  "https://www.facebook.com/share/r/19oQs8urLk/"
  ]
 }
