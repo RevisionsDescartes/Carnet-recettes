@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw4r2x9skfj",
+   "name": "Galettes poulet oeufs brocolis",
+   "type": "plats",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2026-03-25",
+   "url": "https://www.facebook.com/share/r/1HgMGtfd4k/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1793955995632,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw4r0q2gh1t",
    "name": "Boules odorantes pour les toilettes",
    "type": "brico",
@@ -1711,6 +1733,7 @@
   "https://www.facebook.com/share/r/1AG8ogNxWJ/",
   "https://www.facebook.com/share/r/1CXM1qZ7YF/",
   "https://www.facebook.com/share/r/1BEn634XWY/",
-  "https://www.facebook.com/share/v/1NYG971e3m/"
+  "https://www.facebook.com/share/v/1NYG971e3m/",
+  "https://www.facebook.com/share/r/1HgMGtfd4k/"
  ]
 }
