@@ -3,7 +3,7 @@
   {
    "id": "r-mw7ihfzhh5q",
    "name": "Gâteau : banane noix de coco chocolat",
-   "type": "desserts",
+   "type": "gateaux",
    "cook": "",
    "servings": "",
    "src": "Facebook",
@@ -2383,6 +2383,7 @@
  "typeOrder": [
   "plats",
   "accomp",
+  "sauces",
   "sandwichs",
   "tajines",
   "salades",
@@ -2390,6 +2391,7 @@
   "petit-dej",
   "snacks",
   "desserts",
+  "gateaux",
   "brico",
   "aclasser"
  ],
