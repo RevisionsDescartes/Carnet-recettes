@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw8awud8smz",
+   "name": "Popcorn caramélisé",
+   "type": "snacks",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-08",
+   "url": "https://youtube.com/watch?v=57_pQ_TyfCw&si=qoz0diCqyBiZGJvM",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794170702780,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw81k01pho0",
    "name": "Gratin pâtes & viande hachée",
    "type": "plats",
