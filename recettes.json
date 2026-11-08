@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw7kwbm5fw3",
+   "name": "Tarta de Yogur con SOLO 3 INGREDIENTES | Sin Azúcar y Sin Harina",
+   "type": "gateaux",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-08",
+   "url": "https://youtube.com/watch?v=PuaheuHxYMc&si=OF8-IEppw1WroPSd",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794127008462,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw7ktbi8iou",
    "name": "Glace au lait",
    "type": "desserts",
