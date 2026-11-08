@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw7ktbi8iou",
+   "name": "Glace au lait",
+   "type": "desserts",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-08",
+   "url": "https://youtube.com/watch?v=Fa_p2bidUc4&si=uEovv0Q9UF2AqIJH",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794126868353,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw7jp4hu07l",
    "name": "Petits gâteaux pain de mie chocolat smarties Original",
    "type": "gateaux",
