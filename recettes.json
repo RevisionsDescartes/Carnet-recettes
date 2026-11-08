@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw81k01pho0",
+   "name": "Gratin pâtes & viande hachée",
+   "type": "plats",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-08",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794154987069,
+   "meals": [],
+   "status": ""
+  },
+  {
    "id": "r-mw81io6nza7",
    "name": "Nuggets & frites",
    "type": "plats",
