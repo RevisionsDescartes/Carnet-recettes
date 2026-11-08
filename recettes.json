@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw7hz8c80xo",
+   "name": "Nougat maison aux cacahuètes",
+   "type": "desserts",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2025-09-01",
+   "url": "https://www.facebook.com/share/v/1ABfAFzez4/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794122105336,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw6zhvh4lyw",
    "name": "Cookies chocolat peanut butter flocons d'avoine",
    "type": "snacks",
@@ -2444,6 +2466,7 @@
   "https://www.facebook.com/share/r/19xwJU8HJA/",
   "https://www.facebook.com/share/r/16ngsPKGLJ/",
   "https://www.facebook.com/share/r/1JwoRmXzjx/",
-  "https://www.facebook.com/share/r/1BcUWh5f4i/"
+  "https://www.facebook.com/share/r/1BcUWh5f4i/",
+  "https://www.facebook.com/share/v/1ABfAFzez4/"
  ]
 }
