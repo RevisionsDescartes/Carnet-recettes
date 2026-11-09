@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw9cvjv3vtk",
+   "name": "Salads: Cucumber Tomato Avocado Salad Recipe - Natasha's Kitchen",
+   "type": "salades",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-09",
+   "url": "https://youtu.be/SpI3QF_Iauc?si=GWRz8sMjedvbQaM8",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794234467919,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw996l26xnb",
    "name": "Potato Cheese balls | Easy snack recipe",
    "type": "plats",
