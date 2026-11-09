@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw98rsqocpw",
+   "name": "Les aubergines sont plus savoureuses que la viande ! Vous les réaliserez...",
+   "type": "accomp",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-09",
+   "url": "https://youtube.com/watch?v=T4hx246T-qM&si=eGt8J55sJSDVBzK2",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794227574336,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw97j4dhvun",
    "name": "Riz blanc - tout simple",
    "type": "accomp",
