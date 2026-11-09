@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw97j4dhvun",
+   "name": "Riz blanc - tout simple",
+   "type": "accomp",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-09",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794225489893,
+   "meals": [],
+   "status": ""
+  },
+  {
    "id": "r-mw96j9367jn",
    "name": "Cheesecake facile",
    "type": "gateaux",
