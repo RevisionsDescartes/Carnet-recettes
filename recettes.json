@@ -1,6 +1,28 @@
 {
  "recipes": [
   {
+   "id": "r-mw95j2x1so9",
+   "name": "Mug cake au Nutella",
+   "type": "gateaux",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-09",
+   "url": "https://www.facebook.com/share/r/17q3pD1U5L/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794222128773,
+   "meals": [],
+   "status": "essayer"
+  },
+  {
    "id": "r-mw94qnsfhij",
    "name": "🌼 Les oeufs mimosa - by Etchebest",
    "type": "aclasser",
