@@ -1,6 +1,36 @@
 {
  "recipes": [
   {
+   "id": "r-mwdhbdhsf0m",
+   "name": "Jamais eu un gâteau au yaourt aussi moelleux comme un nuage! Tout le mon...",
+   "type": "aclasser",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-12",
+   "url": "https://youtube.com/watch?v=OaHhTJdb5iQ&si=_Jvruuf5Dn8LR5dp",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [
+    "Oui, il est tout à fait possible de cuire ce type de gâteau au air fryer (friteuse sans huile), car celui-ci fonctionne comme un four à chaleur tournante miniature. Cependant, comme les modèles de air fryer varient en puissance et en taille, voici quelques conseils pour réussir la cuisson :",
+    "Ajustez la température : Réduisez généralement la température indiquée dans la recette (160°C) d'environ 10 à 20°C, car la chaleur est plus concentrée dans un air fryer.",
+    "Vérifiez le temps : La cuisson sera probablement plus rapide. Commencez à surveiller votre gâteau après 20 minutes.",
+    "Utilisez le bon moule : Assurez-vous que votre moule est adapté à la taille de votre panier et qu'il est résistant à la chaleur.",
+    "Test de la lame : Utilisez un cure-dent ou la pointe d'un couteau pour vérifier si le centre est bien cuit (il doit ressortir propre).",
+    "N'oubliez pas de préchauffer votre appareil avant d'y placer le moule."
+   ],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794483789329,
+   "meals": [],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mwayvr437uf",
    "name": "Breakfast Egg Sandwich Hack | One Pan Egg Toast | Healthy Egg sandwich #...",
    "type": "sandwichs",
