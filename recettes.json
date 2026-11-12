@@ -1,6 +1,31 @@
 {
  "recipes": [
   {
+   "id": "r-mwdpqu0t2ju",
+   "name": "🐟 Sardines à la charmoula (voir recette charmoula dans Sauces)",
+   "type": "plats",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-12",
+   "url": "https://youtube.com/shorts/NKRUCWjo5zM?si=iKXoSKffHZzpfaOM",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794497947518,
+   "meals": [
+    "dejeuner"
+   ],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mwdpo2d47k0",
    "name": "Chermoula - 750g (pour les sardines par exemple)",
    "type": "sauces",
