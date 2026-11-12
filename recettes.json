@@ -1,6 +1,29 @@
 {
  "recipes": [
   {
+   "id": "r-mwdob379zrd",
+   "name": "Mayonnaise maison avec des œufs durs",
+   "type": "sauces",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-12",
+   "url": "https://youtube.com/shorts/sv1j9rp4Uus?si=jjl-FhYvQkpwYthc",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794495533301,
+   "meals": [],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mwdo88f24cf",
    "name": "La meilleure façon de... Réussir son riz au lait - 750g",
    "type": "accomp",
