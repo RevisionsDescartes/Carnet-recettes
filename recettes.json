@@ -1,6 +1,29 @@
 {
  "recipes": [
   {
+   "id": "r-mwdpo2d47k0",
+   "name": "Chermoula - 750g (pour les sardines par exemple)",
+   "type": "sauces",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-12",
+   "url": "https://youtube.com/watch?v=zFxIh3acNHg&si=5ly7Uatd8-AedAMS",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794497818360,
+   "meals": [],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mwdpbqn3ts5",
    "name": "Riz blanc Mayonnaise Mais Tomates petits pois (avec poissons)",
    "type": "accomp",
