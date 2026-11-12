@@ -1,6 +1,29 @@
 {
  "recipes": [
   {
+   "id": "r-mwdpbqn3ts5",
+   "name": "Riz blanc Mayonnaise Mais Tomates petits pois (avec poissons)",
+   "type": "accomp",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-12",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794497243295,
+   "meals": [],
+   "status": "",
+   "pairs": []
+  },
+  {
    "id": "r-mwdp9pcgrz3",
    "name": "3 SALADES REPAS ou ENTRÉE parfaitement ÉQUILIBRÉES pour l'ÉTÉ",
    "type": "salades",
