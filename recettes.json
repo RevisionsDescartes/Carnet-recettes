@@ -1,6 +1,31 @@
 {
  "recipes": [
   {
+   "id": "r-mwdolnc36qv",
+   "name": "Sandwich Beldi Kefta Saucisse à la Marocaine 🇲🇦🇲🇦🇲🇦",
+   "type": "sandwichs",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-12",
+   "url": "https://youtube.com/shorts/_46wE9MEPB0?si=kJf36GFOXvTfwv0v",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794496025955,
+   "meals": [
+    "diner"
+   ],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mwdob379zrd",
    "name": "Mayonnaise maison avec des œufs durs",
    "type": "sauces",
