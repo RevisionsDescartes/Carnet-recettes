@@ -1,6 +1,32 @@
 {
  "recipes": [
   {
+   "id": "r-mweklzggomn",
+   "name": "Ces galettes de lentilles sont meilleures que la viande !",
+   "type": "accomp",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-13",
+   "url": "https://youtube.com/watch?v=dMugENc-6mg&si=5ZI49g0vCgRwgJQP",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794549789378,
+   "meals": [
+    "dejeuner",
+    "diner"
+   ],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mwdpqu0t2ju",
    "name": "🐟 Sardines à la charmoula (voir recette charmoula dans Sauces)",
    "type": "plats",
