@@ -1,6 +1,29 @@
 {
  "recipes": [
   {
+   "id": "r-mwembb27ub4",
+   "name": "How To Make French Hot Chocolate - Parisian Hot Chocolate Recipe",
+   "type": "petit-dej",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-13",
+   "url": "https://youtube.com/watch?v=6nXv-Np-Bc4&si=yRQq2qbuqzcnOJnW",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794552650431,
+   "meals": [],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mwels2sxkz4",
    "name": "L’aubergine qui rend tout le monde fou !",
    "type": "accomp",
