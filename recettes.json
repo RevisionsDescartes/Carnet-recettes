@@ -573,16 +573,25 @@
    "url": "https://www.facebook.com/share/r/1A24tvdsAB/",
    "btn": "Voir le reel ↗",
    "lvl": "user",
-   "ing": [],
+   "ing": [
+    "INGRÉDIENTS :",
+    "500g de blanc de poulet",
+    "Assaisonnement poulet : 1 cas paprika + 1 œuf + 1 cac gingembre + sel + poivre",
+    "Assaisonnement farine : 5 cas farine + 1 cas paprika + 1 cac gingembre + sel + poivre",
+    "Sauce miel : 2 cas sauce soja salée + 3 cas miel + 1 cac bombée moutarde + 1 gousse d’ail + 1 cac de paprika"
+   ],
    "probable": [],
    "ingNote": "",
-   "steps": [],
+   "steps": [
+    "Astuce : à la fin de la cuisson, retirer les morceaux de poulet de la poêle et ajouter un peu d’eau pour faire une petite sauce. Si vous ajoutez trop d’eau il faudra mettre un peu de sauce soja salée pour donner du goût."
+   ],
    "stepsNote": "",
    "tips": [],
-   "sum": "",
+   "sum": "INGRÉDIENTS :, 500g de blanc de poulet, Assaisonnement poulet : 1 cas paprika + 1 œuf + 1 cac gingembre + sel + poivre, Assaisonnement farine : 5 cas farine + 1 cas paprika + 1 cac gingembre + sel + p",
    "ts": 1794223711730,
    "meals": [
-    "dejeuner"
+    "dejeuner",
+    "diner"
    ],
    "status": "essayer",
    "pairs": [
