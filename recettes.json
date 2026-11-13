@@ -1,6 +1,32 @@
 {
  "recipes": [
   {
+   "id": "r-mwelhih4d0d",
+   "name": "Tartinade d'avocat au thon, oeufs,  yaourt- riche en protéines",
+   "type": "sandwichs",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-13",
+   "url": "https://youtube.com/watch?v=ptLgO05_kgA&si=CwJD3m-jW9Zc9xaV",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794551260361,
+   "meals": [
+    "dejeuner",
+    "diner"
+   ],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mweklzggomn",
    "name": "Ces galettes de lentilles sont meilleures que la viande !",
    "type": "accomp",
