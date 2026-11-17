@@ -1,6 +1,29 @@
 {
  "recipes": [
   {
+   "id": "r-mwkj6ja51ey",
+   "name": "Mug cake : banane, oeufs, flocons d'avoine, chocolat",
+   "type": "gateaux",
+   "cook": "",
+   "servings": "",
+   "src": "Facebook",
+   "date": "2024-11-22",
+   "url": "https://www.facebook.com/share/r/1B8PNRBB8H/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794910186013,
+   "meals": [],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mwkj4dhfmdc",
    "name": "Boulles biscuits cuits enrobés de chocolat (+ peanut butter)?",
    "type": "gateaux",
@@ -4276,6 +4299,7 @@
   "https://www.facebook.com/share/v/18F1UEK288/",
   "https://www.facebook.com/share/r/15etC8YyZK/",
   "https://www.facebook.com/share/r/18tuXFje7a/",
-  "https://www.facebook.com/share/v/19WJw8Pywt/"
+  "https://www.facebook.com/share/v/19WJw8Pywt/",
+  "https://www.facebook.com/share/r/1B8PNRBB8H/"
  ]
 }
