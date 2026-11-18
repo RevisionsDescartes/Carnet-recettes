@@ -1,6 +1,29 @@
 {
  "recipes": [
   {
+   "id": "r-mwls87630j8",
+   "name": "Chauffage facile : sel + diluant",
+   "type": "brico",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-18",
+   "url": "https://www.facebook.com/share/v/1eF4LRG3zn/",
+   "btn": "Voir le reel ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1794985846347,
+   "meals": [],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mwkk7cz3ru9",
    "name": "Poulet caramélisé + riz blanc",
    "type": "plats",
