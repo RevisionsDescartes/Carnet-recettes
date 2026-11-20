@@ -1,6 +1,29 @@
 {
  "recipes": [
   {
+   "id": "r-mwopkoxcjag",
+   "name": "Boulettes de poulet yakitori 🔥",
+   "type": "plats",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-20",
+   "url": "https://youtube.com/shorts/QlJ5RWjihGI?si=M6iXbWfBgCoclzi3",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1795162788912,
+   "meals": [],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mwls87630j8",
    "name": "Chauffage facile : sel + diluant",
    "type": "brico",
