@@ -1,6 +1,29 @@
 {
  "recipes": [
   {
+   "id": "r-mwp2vbgg6cm",
+   "name": "Recette de pain perdu doux : c'est si délicieux et si simple",
+   "type": "desserts",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-20",
+   "url": "https://youtube.com/watch?v=BSgoG_da3-Q&si=UkgQbl4_j7Y9fB1P",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1795185119681,
+   "meals": [],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mwp26045pi4",
    "name": "Salade carottes cuites (herbes, ail)",
    "type": "salades",
