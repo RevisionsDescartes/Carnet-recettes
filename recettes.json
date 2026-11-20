@@ -1,6 +1,29 @@
 {
  "recipes": [
   {
+   "id": "r-mwp26045pi4",
+   "name": "Salade carottes cuites (herbes, ail)",
+   "type": "salades",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-20",
+   "url": "",
+   "btn": "Ouvrir le lien ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1795183938581,
+   "meals": [],
+   "status": "",
+   "pairs": []
+  },
+  {
    "id": "r-mwopkoxcjag",
    "name": "Boulettes de poulet yakitori 🔥",
    "type": "plats",
