@@ -19,7 +19,9 @@
    "tips": [],
    "sum": "",
    "ts": 1795416445968,
-   "meals": [],
+   "meals": [
+    "diner"
+   ],
    "status": "essayer",
    "pairs": []
   },
