@@ -1118,7 +1118,13 @@
    "url": "https://youtube.com/watch?v=y3L14JKSSYI&si=16iBZjuhxlG-PvRW",
    "btn": "Voir la vidéo ↗",
    "lvl": "user",
-   "ing": [],
+   "ing": [
+    "Pour assaisonner les 300 g de mozzarella râpée de la recette, voici les proportions idéales pour un goût équilibré et bien parfumé :",
+    "• Origan séché : 1 cuillère à soupe rase (soit environ 3 cuillères à café). Astuce : frottez-le entre vos paumes au-dessus du bol pour libérer ses arômes.",
+    "• Ail en poudre : 1 cuillère à café rase (ou ½ cuillère à café si vous préférez un goût d'ail plus discret).",
+    "• Sel fin : ½ cuillère à café (indispensable pour relever la mozzarella qui est très douce).",
+    "• Poivre noir : ¼ de cuillère à café (quelques tours de moulin)."
+   ],
    "probable": [],
    "ingNote": "",
    "steps": [
@@ -1139,8 +1145,14 @@
     "Si vous souhaitez varier les goûts sur une même fournée, je peux vous proposer 3 mélanges précis (par exemple : doux, méditerranéen et épicé) pour répartir vos 8 petits pains."
    ],
    "stepsNote": "",
-   "tips": [],
-   "sum": "",
+   "tips": [
+    "Pour assaisonner les 300 g de mozzarella râpée de la recette, voici les proportions idéales pour un goût équilibré et bien parfumé :",
+    "• Origan séché : 1 cuillère à soupe rase (soit environ 3 cuillères à café). Astuce : frottez-le entre vos paumes au-dessus du bol pour libérer ses arômes.",
+    "• Ail en poudre : 1 cuillère à café rase (ou ½ cuillère à café si vous préférez un goût d'ail plus discret).",
+    "• Sel fin : ½ cuillère à café (indispensable pour relever la mozzarella qui est très douce).",
+    "• Poivre noir : ¼ de cuillère à café (quelques tours de moulin)."
+   ],
+   "sum": "Pour assaisonner les 300 g de mozzarella râpée de la recette, voici les proportions idéales pour un goût équilibré et bien parfumé :, • Origan séché : 1 cuillère à soupe rase (soit environ 3 cuillères",
    "ts": 1794484526785,
    "meals": [],
    "status": "essayer",
