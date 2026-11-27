@@ -1,6 +1,29 @@
 {
  "recipes": [
   {
+   "id": "r-mwyl22knegs",
+   "name": "No Oven Brownies Recipe for Beginners! (Easy No Bake Brownies Recipe)",
+   "type": "gateaux",
+   "cook": "",
+   "servings": "",
+   "src": "Ajoutée",
+   "date": "2026-11-27",
+   "url": "https://youtube.com/watch?v=72WSqlUXWJU&si=K8bRRbp8OoPaZhIF",
+   "btn": "Voir la vidéo ↗",
+   "lvl": "user",
+   "ing": [],
+   "probable": [],
+   "ingNote": "",
+   "steps": [],
+   "stepsNote": "",
+   "tips": [],
+   "sum": "",
+   "ts": 1795759863432,
+   "meals": [],
+   "status": "essayer",
+   "pairs": []
+  },
+  {
    "id": "r-mwx6h4ks5wk",
    "name": "Tagine aubergines",
    "type": "accomp",
